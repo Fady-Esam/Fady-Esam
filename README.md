@@ -32,18 +32,6 @@ I'm a Junior Flutter Developer with a knack for developing mobile apps using flu
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="45"/> 
         <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="55" height="50" /> 
 </p>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-
-<a href="https://www.linkedin.com/in/fadyesam/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="45" width="50" />
-</a> 
-
-<a href="https://www.facebook.com/61550927962770" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="45" width="50"/>
-</a>
-
-------------------------------------------------
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
