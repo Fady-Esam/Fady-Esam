@@ -30,7 +30,8 @@ I'm a Junior Flutter Developer with a knack for developing mobile apps using flu
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="45"/> 
-        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="55" height="50" /> 
+        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++ Logo" width="55" height="50" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="C++ Logo" width="55" height="50" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -40,3 +41,5 @@ I'm a Junior Flutter Developer with a knack for developing mobile apps using flu
 <a href="https://www.facebook.com/FadyEsam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fady Esam" height="45" width="50" /></a>
 
 </p>
+
+
