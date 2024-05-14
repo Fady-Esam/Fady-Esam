@@ -7,7 +7,7 @@ I'm a Junior Flutter Developer with a knack for developing mobile apps using flu
 
 - 💬 Ask me about my projects
 
-- 📫 How to reach me **fadyesam0101@gmail.com**
+- 📫 How to reach me fadyesam0101@gmail.com
 
 
 ## Skills: 
@@ -48,7 +48,7 @@ I'm a Junior Flutter Developer with a knack for developing mobile apps using flu
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.facebook.com/61550927962770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minafaried" height="30" width="40" /></a>
-<a href="https://www.facebook.com/61550927962770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mina.f.eldihabi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fadyesam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="50" /></a>
+<a href="https://www.facebook.com/61550927962770" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fady Esam" height="45" width="50" /></a>
 
 </p>
