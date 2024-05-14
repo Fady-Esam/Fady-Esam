@@ -13,8 +13,9 @@ I'm a Junior Flutter Developer with a knack for developing mobile apps using flu
 ## Skills: 
 * Flutter
 * Dart
-* Firebase
 * OOP
+* Firebase
+* Hive
 * MVVM 
 * Clean Architecture
 * BLOC
