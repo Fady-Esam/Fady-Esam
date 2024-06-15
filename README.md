@@ -22,8 +22,8 @@
 * Clean Architecture
 * State Management 
 * BLoC
-<!-- * Data Structure -->
 * Problem Solving
+<!-- * Data Structure -->
 
 
 
