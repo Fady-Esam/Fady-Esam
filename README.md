@@ -31,6 +31,8 @@ I'm a Flutter Developer with a knack for developing mobile apps using flutter fr
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="Hive" width="50" height="45" />
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="45"/> 
+        <!--> <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50" height="45" /> <-->
+        
 </p>
 
 <h3 align="left">Connect with me:</h3>
