@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Fady Esam</h1>
 
-I'm a Flutter Developer with a knack for developing mobile apps using flutter framework and dart programming language
+<h3>
+        I'm a Flutter Developer with a knack for Developing Mobile Apps using Flutter framework and Dart Programming language
+</h3>
 
 - 🌱 I’m currently learning Flutter Development
 
