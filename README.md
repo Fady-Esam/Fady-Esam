@@ -15,12 +15,14 @@ I'm a Flutter Developer with a knack for developing mobile apps using flutter fr
 * OOP
 * Firebase
 * Hive
+* RESEful APIs
 * MVVM 
 * Clean Architecture
-* BLOC
+* State Management 
+* BLoC
 * Data Structure
 * Problem Solving
-* RESEful APIs
+
 
 
 <h3 align="left">Languages and Tools:</h3>
