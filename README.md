@@ -8,7 +8,7 @@
 
 - 💬 Ask me about my projects
 
-- 📫 How to reach me fadyesam0101@gmail.com
+- 📫 How to reach me fady.esam.0101@gmail.com
 
 
 ## Skills: 
@@ -42,7 +42,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://www.linkedin.com/in/fadyesam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="50" /></a>
+<!--<a href="https://www.linkedin.com/in/fadyesam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="50" /></a> -->
 <a href="https://www.facebook.com/FadyEsam01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Fady Esam" height="45" width="50" /></a>
 
 </p>
