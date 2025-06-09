@@ -1,4 +1,4 @@
-
+<br>
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F80ED&width=700&lines=Hi+there%F0%9F%91%8B,+I'm+Fady+Esam"
