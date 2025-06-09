@@ -61,7 +61,7 @@
         <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="C++" width="50" height="45" />
         <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" alt="VB .NET" width="50" height="45" />
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt=".NET" width="50" height="45" />
-        <img src="![Image](https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656)" alt="DevExpress" width="50" height="45" />
+        <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="50" height="45" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
