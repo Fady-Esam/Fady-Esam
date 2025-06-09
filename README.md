@@ -7,10 +7,12 @@
 
 
 <h4>
-        I'm a Flutter Developer with a knack for Developing Mobile Apps using Flutter framework and Dart Programming language
+        I am a Software Developer with strong foundations in software engineering and hands-on experience in Flutter for mobile apps development.
+        Skilled in building desktop applications using VB.NET/C# WinForms with DevExpress and developing robust backend systems with ASP.NET Core Web API and SQL Server.
+        Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry.
 </h4>
 
-- 🌱 I’m currently learning Flutter Development
+- 🌱 I’m currently learning Software Development
 
 - 💬 Ask me about my projects
 
@@ -22,7 +24,6 @@
 * Dart
 * OOP
 * Firebase
-* Hive
 * RESEful APIs
 * MVVM 
 * Clean Architecture
