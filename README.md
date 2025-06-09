@@ -49,57 +49,20 @@
 
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- <p align="left"> 
+<p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="45"/> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="50" height="45"/>  
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="45"/>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="Hive" width="50" height="45" />
         <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="45"/> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="45"/> --!>
-## 🚀 Skills
-## 🚀 Skills
-
-<p align="left">
-
-  <!-- Flutter -->
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="Flutter" title="Flutter"/>
-
-  <!-- Dart -->
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="Dart" title="Dart"/>
-
-  <!-- Firebase -->
-  <img src="https://cdn.simpleicons.org/firebase/FFCA28" height="40" alt="Firebase" title="Firebase"/>
-
-  <!-- Hive (custom PNG icon, as no official SVG available) -->
-  <img src="https://img.icons8.com/color/48/hive-app.png" height="40" alt="Hive" title="Hive"/>
-
-  <!-- .NET -->
-  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="40" alt=".NET" title=".NET"/>
-
-  <!-- Database (generic database icon) -->
-  <img src="https://img.icons8.com/ios-filled/50/database.png" height="40" alt="Database" title="Database"/>
-
-  <!-- SQL Server -->
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" height="40" alt="SQL Server" title="SQL Server"/>
-
-  <!-- C# -->
-  <img src="https://cdn.simpleicons.org/csharp/239120" height="40" alt="C#" title="C#"/>
-
-  <!-- DevExpress (custom PNG, no SimpleIcon) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Devexpress.svg" height="40" alt="DevExpress" title="DevExpress"/>
-
-  <!-- VB.NET (Visual Studio as proxy) -->
-  <img src="https://cdn.simpleicons.org/visualstudio/5C2D91" height="40" alt="VB.NET" title="VB.NET"/>
-
-  <!-- Python -->
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="Python" title="Python"/>
-
-  <!-- C++ -->
-  <img src="https://cdn.simpleicons.org/cplusplus/00599C" height="40" alt="C++" title="C++"/>
-
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="45"/>
+        <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="50" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="C++" width="50" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/microsoft_vb/microsoft_vb-ar21.svg" alt="VB .NET" width="50" height="45" />
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt=".NET" width="50" height="45" />
+        <img src="data:image/jpeg;base64,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" alt="DevExpress" width="50" height="45" />
 </p>
-  
-        <!-- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50" height="45" /> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
