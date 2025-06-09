@@ -7,8 +7,8 @@
 
 
 <h4>
-        I am a Software Developer with strong foundations in software engineering and hands-on experience in Flutter for mobile apps development.
-        Skilled in building desktop applications using VB.NET/C# WinForms with DevExpress and developing robust backend systems with ASP.NET Core Web API and SQL Server.
+        I am a Software Developer with strong foundations in software engineering and hands-on experience in Flutter for mobile apps development.<br>
+        Skilled in building desktop applications using VB.NET/C# WinForms with DevExpress and developing robust backend systems with ASP.NET Core Web API and SQL Server.<br>
         Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry.
 </h4>
 
@@ -75,39 +75,39 @@
 ## 🚀 Skills
 
 ### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%2301759A.svg?style=flat-square&logo=dart&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
-![Hive](https://img.shields.io/badge/Hive-%23000000.svg?style=flat-square&logo=hive&logoColor=Yellow)
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" height="20"> Flutter  
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" height="20"> Dart  
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="20"> Firebase  
+<img src="https://img.shields.io/badge/Hive-%23000000.svg?style=flat-square&color=Yellow" alt="Hive" height="20"> Hive  
 
 ### State Management & Architecture
-![State Management](https://img.shields.io/badge/State_Management-%23123456.svg?style=flat-square)
-![BLoC](https://img.shields.io/badge/BLoC-%2302569B.svg?style=flat-square)
-![MVVM](https://img.shields.io/badge/MVVM-%23123456.svg?style=flat-square)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%23123456.svg?style=flat-square)
+<img src="https://img.shields.io/badge/State_Management-%23123456.svg?style=flat-square" alt="State Management" height="20"> State Management  
+<img src="https://img.shields.io/badge/BLoC-%2302569B.svg?style=flat-square" alt="BLoC" height="20"> BLoC  
+<img src="https://img.shields.io/badge/MVVM-%23123456.svg?style=flat-square" alt="MVVM" height="20"> MVVM  
+<img src="https://img.shields.io/badge/Clean_Architecture-%23123456.svg?style=flat-square" alt="Clean Architecture" height="20"> Clean Architecture  
 
 ### Backend Development
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
-![ADO.NET](https://img.shields.io/badge/ADO.NET%22-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=blue)
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs%22-%23000000.svg?style=flat-square)
-![Database Design](https://img.shields.io/badge/Database_Design-%23000000.svg?style=flat-square)
-![.NET Framework](https://img.shields.io/badge/.NET_Framework-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="ASP.NET Core" height="20"> ASP.NET Core Web API  
+<img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-icon.svg" alt="SQL Server" height="20"> SQL Server  
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="C#" height="20"> C#  
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Entity Framework" height="20"> Entity Framework  
+<img src="https://img.shields.io/badge/ADO.NET-%23512BD4.svg?style=flat-square" alt="ADO.NET" height="20"> ADO.NET  
+<img src="https://img.shields.io/badge/RESTful_APIs-%23000000.svg?style=flat-square" alt="RESTful APIs" height="20"> RESTful APIs  
+<img src="https://img.shields.io/badge/Database_Design-%23000000.svg?style=flat-square" alt="Database Design" height="20"> Database Design  
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt=".NET Framework" height="20"> .NET Framework  
 
 ### Desktop Development
-![Windows Forms](https://img.shields.io/badge/Windows_Forms-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
-![DevExpress](https://img.shields.io/badge/DevExpress%22-%23FF7200.svg?style=flat-square)
-![VB.NET](https://img.shields.io/badge/VB.NET-%23512BD4.svg?style=flat-square&logo=visualbasic&logoColor=white)
+<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="Windows Forms" height="20"> Windows Forms (WinForms)  
+<img src="https://www.vectorlogo.zone/logos/devexpress/devexpress-icon.svg" alt="DevExpress" height="20"> DevExpress  
+<img src="https://www.vectorlogo.zone/logos/visualbasic/visualbasic-icon.svg" alt="VB.NET" height="20"> VB.NET  
 
 ### General Programming
-![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-%23000000.svg?style=flat-square)
-![Algorithms](https://img.shields.io/badge/Algorithms-%23000000.svg?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/Problem_Solving-%23000000.svg?style=flat-square)
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" height="20"> Python  
+<img src="https://www.vectorlogo.zone/logos/cpp/cpp-icon.svg" alt="C++" height="20"> C++  
+<img src="https://img.shields.io/badge/Data_Structures-%23000000.svg?style=flat-square" alt="Data Structures" height="20"> Data Structures  
+<img src="https://img.shields.io/badge/Algorithms-%23000000.svg?style=flat-square" alt="Algorithms" height="20"> Algorithms  
+<img src="https://img.shields.io/badge/OOP-%23000000.svg?style=flat-square" alt="OOP" height="20"> OOP  
+<img src="https://img.shields.io/badge/Problem_Solving-%23000000.svg?style=flat-square" alt="Problem Solving" height="20"> Problem Solving  
         <!-- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50" height="45" /> -->
 
 <h3 align="left">Connect with me:</h3>
