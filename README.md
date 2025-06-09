@@ -72,46 +72,42 @@
 
 ---
 
-### 🧠 Architecture & Patterns
-<p float="left">
-  <img src="https://img.icons8.com/external-outline-design-circle/64/external-mvvm-design-outline-design-circle.png" height="40" alt="MVVM"/>
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/clean-code.png" height="40" alt="Clean Architecture"/>
-  <img src="https://img.icons8.com/color/48/000000/bloc-pattern.png" height="40" alt="BLoC"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/state-management.png" height="40" alt="State Management"/>
-</p>
+## 🚀 Skills
 
----
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%2301759A.svg?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-%23000000.svg?style=flat-square&logo=hive&logoColor=Yellow)
 
-### 🌐 Backend & APIs
-<p float="left">
-  <img src="https://img.icons8.com/color/48/000000/asp.png" height="40" alt="ASP.NET Core"/>
-  <img src="https://img.icons8.com/ios/50/api-settings.png" height="40" alt="RESTful APIs"/>
-  <img src="https://img.icons8.com/ios/50/database.png" height="40" alt="Entity Framework"/>
-  <img src="https://img.icons8.com/ios/50/ado-net.png" height="40" alt="ADO.NET"/>
-  <img src="https://img.icons8.com/ios/50/data-configuration.png" height="40" alt="Database Design"/>
-</p>
+### State Management & Architecture
+![State Management](https://img.shields.io/badge/State_Management-%23123456.svg?style=flat-square)
+![BLoC](https://img.shields.io/badge/BLoC-%2302569B.svg?style=flat-square)
+![MVVM](https://img.shields.io/badge/MVVM-%23123456.svg?style=flat-square)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-%23123456.svg?style=flat-square)
 
----
+### Backend Development
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
+![ADO.NET](https://img.shields.io/badge/ADO.NET%22-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=blue)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs%22-%23000000.svg?style=flat-square)
+![Database Design](https://img.shields.io/badge/Database_Design-%23000000.svg?style=flat-square)
+![.NET Framework](https://img.shields.io/badge/.NET_Framework-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
 
-### 🖥️ Desktop Development
-<p float="left">
-  <img src="https://img.icons8.com/color/48/microsoft-net-framework.png" height="40" alt=".NET Framework"/>
-  <img src="https://img.icons8.com/windows/32/windows-10.png" height="40" alt="WinForms"/>
-  <img src="https://img.icons8.com/color/48/devexpress.png" height="40" alt="DevExpress"/>
-  <img src="https://img.icons8.com/ios/50/source-code.png" height="40" alt="VB.NET"/>
-</p>
+### Desktop Development
+![Windows Forms](https://img.shields.io/badge/Windows_Forms-%23512BD4.svg?style=flat-square&logo=dot-net&logoColor=white)
+![DevExpress](https://img.shields.io/badge/DevExpress%22-%23FF7200.svg?style=flat-square)
+![VB.NET](https://img.shields.io/badge/VB.NET-%23512BD4.svg?style=flat-square&logo=visualbasic&logoColor=white)
 
----
-
-### 📚 CS Concepts
-<p float="left">
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/data-structure.png" height="40" alt="Data Structures"/>
-  <img src="https://img.icons8.com/external-outline-design-circle/64/algorithm.png" height="40" alt="Algorithms"/>
-  <img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/64/oop.png" height="40" alt="OOP"/>
-  <img src="https://img.icons8.com/ios-filled/50/problem-solving.png" height="40" alt="Problem Solving"/>
-</p>
-
-
+### General Programming
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data_Structures-%23000000.svg?style=flat-square)
+![Algorithms](https://img.shields.io/badge/Algorithms-%23000000.svg?style=flat-square)
+![OOP](https://img.shields.io/badge/OOP-%23000000.svg?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/Problem_Solving-%23000000.svg?style=flat-square)
         <!-- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width="50" height="45" /> -->
 
 <h3 align="left">Connect with me:</h3>
