@@ -1,28 +1,13 @@
 
-# My GitHub Profile
-
-<style>
-/* Define the keyframes for fade-in and slide-up animation */
-@keyframes fadeInSlideUp {
-  0% {
-    opacity: 0;
-    transform: translateY(20px);
-  }
-  100% {
-    opacity: 1;
-    transform: translateY(0);
-  }
-}
-
-/* Apply the animation to the h1 element */
-.animated-heading {
-  animation: fadeInSlideUp 1s ease-in-out forwards;
-}
-</style>
-
-<h1 align="center" class="animated-heading">Hi there👋, I'm Fady Esam</h1>
-
-## About Me
+<p align="center">
+  <!-- Animated typing effect with clean font and smooth pause -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F80ED&width=500&lines=Hi+there%F0%9F%91%8B,+I'm+Fady+Esam"
+    alt="Typing animation: Hi there👋, I'm Fady Esam"
+    title="Hi there👋, I'm Fady Esam"
+    style="filter: drop-shadow(1px 1px 1px rgba(0,0,0,0.1));"
+  />
+</p>
 ...
 <h4>
         I'm a Flutter Developer with a knack for Developing Mobile Apps using Flutter framework and Dart Programming language
