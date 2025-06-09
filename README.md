@@ -1,4 +1,3 @@
-# <h1 align="center">Hi there👋, I'm Fady Esam</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F80ED&width=435&lines=Hi+there%F0%9F%91%8B,+I'm+Fady+Esam" alt="Typing SVG" />
