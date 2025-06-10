@@ -9,11 +9,11 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Software Developer** with strong foundations in computer science and hands-on experience in building cross-platform mobile apps with **Flutter**.
-
-- 🌐 Backend development with **ASP.NET Core Web API** and **SQL Server**
-- 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress**
-- 🎯 Passionate about learning, problem solving, and contributing to meaningful tech projects
+  I am a **Software Developer** with strong foundations in software engineering and hands-on experience in **Flutter** for mobile apps development.
+  
+  - 🌐 Backend development and robust systems with **ASP.NET Core Web API** and **SQL Server**
+  - 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress** 
+  - 🎯 Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry. 
 
 ---
 
@@ -25,7 +25,8 @@ I’m a **Software Developer** with strong foundations in computer science and h
 ---
 
 
-## Skills: 
+### 🧠 Skills
+
 * Flutter
 * Dart
 * Firebase
@@ -54,7 +55,7 @@ I’m a **Software Developer** with strong foundations in computer science and h
 
 
 
-<h3 align="left">Languages and Tools:</h3>
+### 🛠️ Languages & Tools
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="50" height="45"/>
@@ -73,7 +74,7 @@ I’m a **Software Developer** with strong foundations in computer science and h
 </p>
 
 
- <h3 align="left">Connect with me:</h3>
+### 📫 Connect With Me
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
