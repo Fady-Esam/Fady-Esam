@@ -67,9 +67,14 @@
 </p>
 
 <h3 align="left">Connect with me:</h3> 
-<p align="left" style="display: flex; gap: 5px; align-items: center;"> 
+<p align="left" style="display: flex; gap: 10px; align-items: center;"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="50" /> 
+  </a> 
+  
+  <a href="mailto:fady.esam.0101@gmail.com" target="_blank"> 
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
+</a> 
 </p>
 
 
