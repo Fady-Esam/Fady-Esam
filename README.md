@@ -67,7 +67,7 @@
 </p>
 
 
-## Connect with me:
+ <h3 align="left">Connect with me:</h3>
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
