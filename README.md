@@ -71,7 +71,7 @@
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
   </a> 
-   &nbsp;&nbsp;
+   &nbsp;
   <a href="mailto:fady.esam.0101@gmail.com" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
 </a> 
