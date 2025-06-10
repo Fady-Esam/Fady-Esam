@@ -9,7 +9,7 @@
 
 ## 👨‍💻 About Me
 
-  <h3>I</h3> am a **Software Developer** with strong foundations in software engineering.
+I am a **Software Developer** with strong foundations in software engineering.
   - 📱  Mobile apps development using **Flutter** and **Dart** 
   - 🌐 Backend development with **ASP.NET Core Web API** and **SQL Server**
   - 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress** 
