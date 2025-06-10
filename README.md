@@ -66,7 +66,7 @@
         <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="50" height="45"/>
 </p>
 
-<h3 align="left">Connect with me:</h3>
+
 ## Connect with me:
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
