@@ -27,7 +27,7 @@
 
 ### 🧠 Skills
 
-- Flutter
+* Flutter
 * Dart
 * Firebase
 * Hive
