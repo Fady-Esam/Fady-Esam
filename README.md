@@ -5,18 +5,24 @@
   />
 </p>
 
+---
 
-<p align="left">
-  I am a Software Developer with strong foundations in software engineering and hands-on experience in Flutter for mobile apps development.<br>
-  Skilled in building desktop applications using VB.NET/C# WinForms with DevExpress and developing robust backend systems with ASP.NET Core Web API and SQL Server.<br>
-  Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry.
-</p>
+### 👨‍💻 About Me
 
-- 🌱 I’m currently learning Software Development
+I’m a **Software Developer** with strong foundations in computer science and hands-on experience in building cross-platform mobile apps with **Flutter**.
 
-- 💬 Ask me about my projects
+- 🌐 Backend development with **ASP.NET Core Web API** and **SQL Server**
+- 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress**
+- 🎯 Passionate about learning, problem solving, and contributing to meaningful tech projects
 
-- 📫 How to reach me fady.esam.0101@gmail.com
+---
+
+### 📌 Currently:
+- 🌱 Learning and building real-world software projects
+- 💬 Ask me about my mobile, backend, or desktop development experience
+- 📫 Reach me at: **fady.esam.0101@gmail.com**
+
+---
 
 
 ## Skills: 
