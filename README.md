@@ -9,8 +9,8 @@
 
 ### 👨‍💻 About Me
 
-  I am a **Software Developer** with strong foundations in software engineering and hands-on experience in **Flutter** for mobile apps development.
-  
+  I am a **Software Developer** with strong foundations in software engineering
+  - 📱  Mobile apps development using **Flutter** framework and **Dart** 
   - 🌐 Backend development and robust systems with **ASP.NET Core Web API** and **SQL Server**
   - 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress** 
   - 🎯 Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry. 
@@ -18,8 +18,8 @@
 ---
 
 ### 📌 Currently:
-- 🌱 Learning and building real-world software projects
-- 💬 Ask me about my mobile, backend, or desktop development experience
+- 🌱 Learning and building software projects
+- 💬 Ask me about my projects and experience
 - 📫 Reach me at: **fady.esam.0101@gmail.com**
 
 ---
