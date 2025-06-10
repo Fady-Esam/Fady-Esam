@@ -10,8 +10,8 @@
 ### 👨‍💻 About Me
 
   I am a **Software Developer** with strong foundations in software engineering
-  - 📱  Mobile apps development using **Flutter** framework and **Dart** 
-  - 🌐 Backend development and robust systems with **ASP.NET Core Web API** and **SQL Server**
+  - 📱  Mobile apps development using **Flutter** and **Dart** 
+  - 🌐 Backend development with **ASP.NET Core Web API** and **SQL Server**
   - 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress** 
   - 🎯 Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry. 
 
@@ -53,7 +53,7 @@
 * OOP
 * Problem Solving
 
-
+---
 
 ### 🛠️ Languages & Tools
 <p align="left"> 
@@ -73,6 +73,7 @@
         <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="50" height="45"/>
 </p>
 
+---
 
 ### 📫 Connect With Me
 <h5 align="left"> 
