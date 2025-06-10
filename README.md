@@ -7,9 +7,9 @@
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-  I am a **Software Developer** with strong foundations in software engineering
+  <h3>I</h3> am a **Software Developer** with strong foundations in software engineering.
   - 📱  Mobile apps development using **Flutter** and **Dart** 
   - 🌐 Backend development with **ASP.NET Core Web API** and **SQL Server**
   - 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress** 
@@ -17,7 +17,7 @@
 
 ---
 
-### 📌 Currently:
+## 📌 Currently:
 - 🌱 Learning and building software projects
 - 💬 Ask me about my projects and experience
 - 📫 Reach me at: **fady.esam.0101@gmail.com**
@@ -25,7 +25,7 @@
 ---
 
 
-### 🧠 Skills
+## 🧠 Skills
 
 * Flutter
 * Dart
@@ -55,7 +55,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 <p align="left"> 
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="50" height="45"/>
@@ -75,7 +75,7 @@
 
 ---
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 <h5 align="left"> 
 <a href="https://www.linkedin.com/in/fady-esam/" target="_blank"> 
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="45" /> 
