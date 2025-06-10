@@ -6,11 +6,11 @@
 </p>
 
 
-<h4>
-        I am a Software Developer with strong foundations in software engineering and hands-on experience in Flutter for mobile apps development.<br>
-        Skilled in building desktop applications using VB.NET/C# WinForms with DevExpress and developing robust backend systems with ASP.NET Core Web API and SQL Server.<br>
-        Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry.
-</h4>
+<p align="center">
+  I am a Software Developer with strong foundations in software engineering and hands-on experience in Flutter for mobile apps development.<br>
+  Skilled in building desktop applications using VB.NET/C# WinForms with DevExpress and developing robust backend systems with ASP.NET Core Web API and SQL Server.<br>
+  Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry.
+</p>
 
 - 🌱 I’m currently learning Software Development
 
@@ -33,7 +33,7 @@
 * C#
 * Entity Framework
 * ADO.NET
-* RESEful APIs
+* RESTful APIs
 * Database Design
 * .NET Framework
 * Windows Forms (WinForms)
@@ -64,14 +64,21 @@
         <img src="https://github.com/user-attachments/assets/81601bc6-d10f-436a-a3fa-fb3b129feaf6" alt="VS Code" width="50" height="45"/>
         <img src="https://github.com/user-attachments/assets/77a7ebaf-391a-4c1f-b705-12323cbaaa98" alt="Visual Studio" width="50" height="45"/>
         <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="50" height="45"/>
-
 </p>
-
+<!--> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://www.linkedin.com/in/fady-esam/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="50" /></a>
-
+<a href="https://www.linkedin.com/in/fady-esam/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Fady Esam" height="45" width="50" /></a>
 </p>
+<-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/fady-esam/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="45" width="50"/>
+  </a>
+  <a href="mailto:fady.esam.0101@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50"/>
+  </a>
+</p>
+
 
 
