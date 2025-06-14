@@ -57,6 +57,7 @@ I am a **Software Developer** with strong foundations in software engineering.
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
+        <img src="https://skillicons.dev/icons?i=flutter,dart,cs,postman,vscode,visualstudio,cpp,firebase,git,github,py" />
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="50" height="45"/>
