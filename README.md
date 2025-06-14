@@ -57,7 +57,8 @@ I am a **Software Developer** with strong foundations in software engineering.
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
-        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cs,cpp,py,postman,vscode,visualstudio,git,github" alt="Tech stack icons" />/>
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cs,cpp,py,postman,vscode,visualstudio,git,github" alt="Tech stack icons" />
+        <img src="https://github.com/user-attachments/assets/bed1f933-9788-4ac4-b233-a9986092db48" alt="Swagger" width="48" height="48"/>
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="Hive" width="48" height="48"/>
         <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt=".NET" width="48" height="48"/>
         <img src="https://github.com/user-attachments/assets/fa32ecd8-f181-4041-8783-c52c2a1a2394" alt="ASP .NET Core" width="48" height="48"/>
