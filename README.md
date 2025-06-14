@@ -17,7 +17,7 @@ I am a **Software Developer** with strong foundations in software engineering.
 
 ---
 
-## 📌 Currently:
+## 📌 Currently
 - 🌱 Learning and building software projects
 - 💬 Ask me about my projects and experience
 - 📫 Reach me at: **fady.esam.0101@gmail.com**
@@ -57,7 +57,14 @@ I am a **Software Developer** with strong foundations in software engineering.
 
 ## 🛠️ Languages & Tools
 <p align="left"> 
-        <img src="https://skillicons.dev/icons?i=flutter,dart,cs,postman,vscode,visualstudio,cpp,firebase,git,github,py" />
+        <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cs,cpp,py,postman,vscode,visualstudio,git,github" alt="Tech stack icons" />/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="Hive" width="48" height="48"/>
+        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt=".NET" width="48" height="48"/>
+        <img src="https://github.com/user-attachments/assets/fa32ecd8-f181-4041-8783-c52c2a1a2394" alt="ASP .NET Core" width="48" height="48"/>
+        <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="48" height="48"/>
+        <img src="https://github.com/user-attachments/assets/7c52a0af-9e04-4cb9-8a08-e492f9ea1ff1" alt="SQL Database" width="48" height="48"/>
+        <img src="https://github.com/user-attachments/assets/92a8f8f5-b9cc-4ca4-88d8-b8ae33106ddb" alt="SQL Server" width="48" height="48"/> 
+        <!--
         <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="45"/>
         <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="50" height="45"/>
@@ -73,7 +80,9 @@ I am a **Software Developer** with strong foundations in software engineering.
         <img src="https://github.com/user-attachments/assets/81601bc6-d10f-436a-a3fa-fb3b129feaf6" alt="VS Code" width="50" height="45"/>
         <img src="https://github.com/user-attachments/assets/77a7ebaf-391a-4c1f-b705-12323cbaaa98" alt="Visual Studio" width="50" height="45"/>
         <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="50" height="45"/>
+  -->
 </p>
+
 
 ---
 
@@ -87,5 +96,35 @@ I am a **Software Developer** with strong foundations in software engineering.
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" height="45" width="50" /> 
 </a> 
 </h5>
+
+---
+
+### 📈 GitHub Activity Summary
+
+<table>
+  <tr>
+    <th align="center">🧩 Contribution Calendar</th>
+    <th align="center">📊 Language Usage</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fady-Esam&theme=tokyonight" width="100%"/>
+    </td>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fady-Esam&theme=tokyonight" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fady-Esam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fady-Esam&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+</p>
+
+
 
 
