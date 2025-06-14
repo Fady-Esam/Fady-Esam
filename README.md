@@ -24,34 +24,34 @@ I am a **Software Developer** with strong foundations in software engineering.
 
 ---
 
-
 ## 🧠 Skills
 
-* Flutter
-* Dart
-* Firebase
-* Hive
-* State Management 
-* BLoC
-* MVVM
-* Clean Architecture
-* ASP.NET Core Web API
-* SQL Server
-* C#
-* Entity Framework
-* ADO.NET
-* RESTful APIs
-* Database Design
-* .NET Framework
-* Windows Forms (WinForms)
-* DevExpress
-* VB.NET
-* Python
-* C++
-* Data Structures
-* Algorithms
-* OOP
-* Problem Solving
+### 📱 Mobile Development
+- Flutter, Dart  
+- Firebase, Hive  
+- State Management (BLoC Pattern)  
+- MVVM, Clean Architecture
+
+### 🌐 Backend Development
+- ASP.NET Core Web API  
+- RESTful APIs, ADO.NET, Entity Framework Core
+- SQL Server, Database Design, SQL
+
+### 💻 Desktop Development
+- C#, .NET Framework  
+- Windows Forms (WinForms), DevExpress  
+- VB.NET
+
+### 💻 Programming Languages & 🧰 Tools & Platforms
+- Python, C++  
+- Git, GitHub, Postman  
+- Visual Studio, VS Code
+
+### 💡 Core Concepts
+- Data Structures, Algorithms  
+- OOP (Object-Oriented Programming)  
+- Problem Solving
+
 
 ---
 
@@ -64,23 +64,6 @@ I am a **Software Developer** with strong foundations in software engineering.
         <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="48" height="48"/>
         <img src="https://github.com/user-attachments/assets/7c52a0af-9e04-4cb9-8a08-e492f9ea1ff1" alt="SQL Database" width="48" height="48"/>
         <img src="https://github.com/user-attachments/assets/92a8f8f5-b9cc-4ca4-88d8-b8ae33106ddb" alt="SQL Server" width="48" height="48"/> 
-        <!--
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/isocpp/isocpp-icon.svg" alt="C++" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/371823a5-1412-4df5-bc39-8dbe2301d3b5" alt="C#" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-official.svg" alt=".NET" width="50" height="45"/>
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMPq4YNrCDzxfBUu7I4wlkncj7XnUgF8rl1A&s" alt="Hive" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/7c52a0af-9e04-4cb9-8a08-e492f9ea1ff1" alt="SQL Database" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/92a8f8f5-b9cc-4ca4-88d8-b8ae33106ddb" alt="SQL Server" width="50" height="45"/> 
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="45"/>
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/81601bc6-d10f-436a-a3fa-fb3b129feaf6" alt="VS Code" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/77a7ebaf-391a-4c1f-b705-12323cbaaa98" alt="Visual Studio" width="50" height="45"/>
-        <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="50" height="45"/>
-  -->
 </p>
 
 
@@ -124,7 +107,5 @@ I am a **Software Developer** with strong foundations in software engineering.
   <img src="https://github-readme-stats.vercel.app/api?username=Fady-Esam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fady-Esam&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
-
-
 
 
