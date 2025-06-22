@@ -18,9 +18,9 @@ I am a **Software Developer** with strong foundations in software engineering.
 ---
 
 ## 📌 Currently
-- 🌱 Learning and building software projects
-- 💬 Ask me about my projects and experience
-- 📫 Reach me at: **fady.esam.0101@gmail.com**
+- 🌱 Actively learning and building software projects
+- 💬 Ask me about my work, projects, experience, or development journey 
+- 📫 Feel free Reach me at: **fady.esam.0101@gmail.com**
 
 ---
 
@@ -42,7 +42,7 @@ I am a **Software Developer** with strong foundations in software engineering.
 - Windows Forms (WinForms), DevExpress  
 - VB.NET
 
-### 💻 Programming Languages & 🧰 Tools & Platforms
+### 🧰 Programming Languages & Tools & Platforms
 - Python, C++  
 - Git, GitHub, Postman  
 - Visual Studio, VS Code
