@@ -77,8 +77,8 @@ I am a **Software Developer** with strong foundations in software engineering.
   <img src="https://github.com/user-attachments/assets/92a8f8f5-b9cc-4ca4-88d8-b8ae33106ddb" alt="SQL Server" width="48" height="48"/>
 
   <!-- 🧰 Tools & IDEs -->
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" alt="Tools & IDEs" />
   <img src="https://github.com/user-attachments/assets/d6bdabcb-a550-4b7b-b963-cc9d27b2a656" alt="DevExpress" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github" alt="Tools & IDEs" />
 
 </p>
 
