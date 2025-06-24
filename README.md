@@ -36,6 +36,9 @@ I am a **Software Developer** with strong foundations in software engineering.
 - ASP.NET Core Web API  
 - RESTful APIs, ADO.NET, Entity Framework Core
 - SQL Server, Database Design, SQL
+- Querying & Data Access (LINQ)  
+- Authentication & Authorization (Identity, JWT)  
+- State Management (Sessions, Cookies)
 
 ### 💻 Desktop Development
 - C#, .NET Framework  
@@ -48,7 +51,8 @@ I am a **Software Developer** with strong foundations in software engineering.
 - Visual Studio, VS Code
 
 ### 💡 Core Concepts
-- Data Structures, Algorithms  
+- Data Structures, Algorithms
+- SOLID Principles 
 - OOP (Object-Oriented Programming)  
 - Problem Solving
 
