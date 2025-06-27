@@ -7,20 +7,30 @@
 
 ---
 
+
+
 ## 👨‍💻 About Me
 
-I am a **Software Developer** with strong foundations in software engineering.
-  - 📱  Mobile apps development using **Flutter** and **Dart** 
-  - 🌐 Backend development with **ASP.NET Core Web API** and **SQL Server**
-  - 💻 Desktop apps using **VB.NET / C# WinForms** and **DevExpress** 
-  - 🎯 Enjoying and thrilled learning, solving challenges, and contributing to meaningful, innovative tech projects while continuously growing in the industry. 
+I am a **Software Developer** with a solid foundation in software engineering, skilled in building robust and efficient applications and meaningful solutions across different platforms.
+
+### 🛠️ Technical Focus
+
+- 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
+- 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server**
+- 💻 **Desktop Applications** — Developing with **VB.NET** & **C# WinForms** & **DevExpress**
+
+### 🚀 Professional Drive
+
+- 🎯 Enthusiastic about learning, tackling challenges, and contributing to innovative tech projects  
+- 💡 Always growing, committed to continuous improvement, and staying current with industry trends
 
 ---
 
 ## 📌 Currently
+
 - 🌱 Actively learning and building software projects
 - 💬 Ask me about my work, projects, experience, or development journey 
-- 📫 Feel free Reach me at: **fady.esam.0101@gmail.com**
+- 📫 You can reach me anytime at: **fady.esam.0101@gmail.com**
 
 ---
 
@@ -125,7 +135,5 @@ I am a **Software Developer** with strong foundations in software engineering.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Fady-Esam&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fady-Esam&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=Fady-Esam&theme=tokyonight&hide_border=true&border_radius=10" width="48%" />
 </p>
-
-
