@@ -17,7 +17,7 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 
 - 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
 - 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server**
-- 💻 **Desktop Applications** — Developing with **VB.NET** & **C# WinForms** & **DevExpress**
+- 💻 **Desktop Applications** — Developing with **C# WinForms** & **DevExpress** & **VB.NET**
 
 ### 🚀 Professional Drive
 
