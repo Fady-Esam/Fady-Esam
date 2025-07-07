@@ -79,7 +79,7 @@ I am a **Software Developer** with a solid foundation in software engineering, s
   
   <!-- 🔙 Backend & API -->
   
-  <img src="https://github.com/user-attachments/assets/fa32ecd8-f181-4041-8783-c52c2a1a2394" alt="ASP .NET Core" width="48" height="48"/>
+  <img src="https://github.com/user-attachments/assets/fa32ecd8-f181-4041-8783-c52c2a1a2394" alt="ASP .NET Core" width="48" height="80"/>
   <img src="https://github.com/user-attachments/assets/3136feed-3e70-4e7c-8ea6-83fe0503adc1" alt="ADO .NET" width="48" height="48"/>
   <img src="https://github.com/user-attachments/assets/cca47f88-a1fa-4aeb-b70b-b309e3b19f16" alt="EF Core" width="48" height="48"/>
   <img src="https://github.com/user-attachments/assets/bed1f933-9788-4ac4-b233-a9986092db48" alt="Swagger" width="48" height="48"/>
