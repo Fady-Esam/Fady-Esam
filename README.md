@@ -17,7 +17,6 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 
 - 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
 - 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server**
-- 💻 **Desktop Applications** — Developing with **C# WinForms** & **DevExpress** & **VB.NET**
 
 ### 🚀 Professional Drive
 
@@ -29,8 +28,8 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 ## 📌 Currently
 
 - 🌱 Actively learning and building software projects
-- 💬 Ask me about my work, projects, experience, or development journey 
-- 📫 You can reach me anytime at: **fady.esam.0101@gmail.com**
+- 💬 Open to discussions about my work, projects, experience, or development journey 
+- 📫 Reach me at: **fady.esam.0101@gmail.com**
 
 ---
 
@@ -50,7 +49,7 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 - Authentication & Authorization (Identity, JWT)  
 - State Management (Sessions, Cookies)
 
-### 💻 Desktop Development
+### 💻 Desktop Development (Side Experience)
 - C#, .NET Framework  
 - Windows Forms (WinForms), DevExpress  
 - VB.NET
