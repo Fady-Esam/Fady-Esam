@@ -1,8 +1,4 @@
 <p align="center">
-  <!-- <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F80ED&width=800&height=80&lines=Hi+there%F0%9F%91%8B,+I'm+Fady+Esam"
-    alt="Typing animation: Hi there👋, I'm Fady Esam"
-  /> -->
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2F80ED&width=800&height=80&lines=Hi+there+👋,+I'm+Fady+Esam;Software+Engineer"
     alt="Typing animation: Hi there👋, I'm Fady Esam | Software Engineer"
@@ -24,12 +20,12 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in building scalable, high-performance mobile and web applications. My focus lies in bridging the gap between robust **Backend architectures** and intuitive **User Interfaces**. I design systems with **Clean Architecture** and **SOLID principles** at their core to deliver meaningful, business-driven solutions.
+I am a **Software Engineer** specializing in building scalable, high-performance mobile and resilient backend services. My focus lies in bridging the gap between robust **Backend architectures** and intuitive **User Interfaces**. I design systems with **Clean Architecture** and **SOLID principles** at their core to deliver meaningful, business-driven solutions.
 
 ### 🛠️ Technical Focus
 
 - 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
-- 🌐 **Backend & Web Development** — Building Full-Stack solutions and APIs using **.NET (ASP.NET Core, MVC)** & **SQL Server**
+- 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server**
 - 🏗️ **Software Architecture** — Implementing **Clean Architecture**, **MVVM**, and **BLoC Pattern**
 
 ### 🚀 Professional Drive
@@ -48,14 +44,13 @@ I am a **Software Engineer** specializing in building scalable, high-performance
 - State Management (BLoC Pattern)  
 - MVVM, Clean Architecture
 
-### 🌐 Backend & Web Development
-- ASP.NET Core Web API, ASP.NET MVC  
+### 🌐 Backend Development
+- ASP.NET Core Web API  
 - RESTful APIs, ADO.NET, Entity Framework Core
 - SQL Server, Database Design, SQL
 - Querying & Data Access (LINQ)  
 - Authentication & Authorization (Identity, JWT)  
 - State Management (Sessions, Cookies)
-- Responsive Design & UX/UI Principles
 
 ### 🧰 Programming Languages & Tools & Platforms
 - Python, C++  
