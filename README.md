@@ -20,19 +20,19 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 
 ## 👨‍💻 About Me
 
-I am a **Software Engineer** specializing in building scalable, high-performance mobile and resilient backend services. My focus lies in bridging the gap between robust **Backend architectures** and intuitive **User Interfaces**. I design systems with **Clean Architecture** and **SOLID principles** at their core to deliver meaningful, business-driven solutions.
+I am a **Software Developer** focused on building functional mobile apps and reliable backend services. My goal is to connect well-structured **Backend Systems** with easy-to-use **Mobile Interfaces**. I apply **Clean Architecture** and **SOLID principles** to write maintainable code and deliver practical software solutions.
 
 ### 🛠️ Technical Focus
 
-- 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
-- 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server**
-- 🏗️ **Software Architecture** — Implementing **Clean Architecture**, **MVVM**, and **BLoC Pattern**
+- 📱 **Mobile Development** — Building cross-platform apps with **Flutter** & **Dart**
+- 🌐 **Backend Development** — Developing APIs using **ASP.NET Core Web API** & **SQL Server**
+- 🏗️ **Code Structure** — Applying **Clean Architecture**, **MVVM**, and **BLoC Pattern**
 
 ### 🚀 Professional Drive
 
-- 🎯 Enthusiastic about learning, tackling challenges, and contributing to innovative tech projects  
-- 💡 Always growing, committed to continuous improvement, and staying current with industry trends
-- 🌱 Currently expanding my expertise in cloud integration and advanced system design.
+- 🎯 Eager to learn, solve practical problems, and contribute to real-world software projects.
+- 💡 Focused on writing clean code, improving my skills, and keeping up with development best practices.
+- 🌱 Currently working on improving my full-stack skills and learning the basics of cloud deployment.
 
 ---
 
@@ -47,14 +47,14 @@ I am a **Software Engineer** specializing in building scalable, high-performance
 ### 🌐 Backend Development
 - ASP.NET Core Web API  
 - RESTful APIs, ADO.NET, Entity Framework Core
-- SQL Server, Database Design, SQL
+- SQL Server, Relational Databases
 - Querying & Data Access (LINQ)  
-- Authentication & Authorization (Identity, JWT)  
+- Authentication & Authorization (Identity, JWT)
 - State Management (Sessions, Cookies)
 
 ### 🧰 Programming Languages & Tools & Platforms
 - Python, C++  
-- Git, GitHub, Postman  
+- Git, GitHub, Postman, Swagger (API Documentation)
 - Visual Studio, VS Code
 
 ### 💡 Core Concepts
