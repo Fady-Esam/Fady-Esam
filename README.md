@@ -1,14 +1,18 @@
 <p align="center">
-  <img
+  <!-- <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2F80ED&width=800&height=80&lines=Hi+there%F0%9F%91%8B,+I'm+Fady+Esam"
     alt="Typing animation: Hi there👋, I'm Fady Esam"
+  /> -->
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=35&pause=1000&color=2F80ED&width=800&height=80&lines=Hi+there+👋,+I'm+Fady+Esam;Software+Engineer"
+    alt="Typing animation: Hi there👋, I'm Fady Esam | Software Engineer"
   />
 </p>
 
 ---
 
 
-
+<!--
 ## 👨‍💻 About Me
 
 I am a **Software Developer** with a solid foundation in software engineering, skilled in building robust and efficient applications and meaningful solutions across different platforms.
@@ -16,20 +20,23 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 ### 🛠️ Technical Focus
 
 - 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
-- 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server**
+- 🌐 **Backend Development** — Building APIs using **ASP.NET Core Web API** & **SQL Server** -->
+
+## 👨‍💻 About Me
+
+I am a **Software Engineer** specializing in building scalable, high-performance mobile and web applications. My focus lies in bridging the gap between robust **Backend architectures** and intuitive **User Interfaces**. I design systems with **Clean Architecture** and **SOLID principles** at their core to deliver meaningful, business-driven solutions.
+
+### 🛠️ Technical Focus
+
+- 📱 **Mobile Development** — Crafting cross-platform apps with **Flutter** & **Dart**
+- 🌐 **Backend & Web Development** — Building Full-Stack solutions and APIs using **.NET (ASP.NET Core, MVC)** & **SQL Server**
+- 🏗️ **Software Architecture** — Implementing **Clean Architecture**, **MVVM**, and **BLoC Pattern**
 
 ### 🚀 Professional Drive
 
 - 🎯 Enthusiastic about learning, tackling challenges, and contributing to innovative tech projects  
 - 💡 Always growing, committed to continuous improvement, and staying current with industry trends
-
----
-
-## 📌 Currently
-
-- 🌱 Actively learning and building software projects
-- 💬 Open to discussions about my work, projects, experience, or development journey 
-- 📫 Reach me at: **fady.esam.0101@gmail.com**
+- 🌱 Currently expanding my expertise in cloud integration and advanced system design.
 
 ---
 
@@ -41,18 +48,14 @@ I am a **Software Developer** with a solid foundation in software engineering, s
 - State Management (BLoC Pattern)  
 - MVVM, Clean Architecture
 
-### 🌐 Backend Development
-- ASP.NET Core Web API  
+### 🌐 Backend & Web Development
+- ASP.NET Core Web API, ASP.NET MVC  
 - RESTful APIs, ADO.NET, Entity Framework Core
 - SQL Server, Database Design, SQL
 - Querying & Data Access (LINQ)  
 - Authentication & Authorization (Identity, JWT)  
 - State Management (Sessions, Cookies)
-
-### 💻 Desktop Development (Side Experience)
-- C#, .NET Framework  
-- Windows Forms (WinForms), DevExpress  
-- VB.NET
+- Responsive Design & UX/UI Principles
 
 ### 🧰 Programming Languages & Tools & Platforms
 - Python, C++  
